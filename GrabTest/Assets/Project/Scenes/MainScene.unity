@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.06950843, g: 0.104695655, b: 0.15883854, a: 1}
+  m_IndirectSpecularColor: {r: 0.005842546, g: 0.010590751, b: 0.02127162, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -15043,7 +15043,7 @@ ParticleSystem:
       maxColor: {r: 1, g: 1, b: 1, a: 1}
       maxGradient:
         serializedVersion: 2
-        key0: {r: 0.8962264, g: 0.49149773, b: 0.33312562, a: 0}
+        key0: {r: 0.29803923, g: 0.6627451, b: 0.6509804, a: 0}
         key1: {r: 1, g: 1, b: 1, a: 1}
         key2: {r: 1, g: 1, b: 1, a: 0.9647059}
         key3: {r: 0, g: 0, b: 0, a: 0}
@@ -15072,8 +15072,8 @@ ParticleSystem:
         m_NumAlphaKeys: 4
       minGradient:
         serializedVersion: 2
-        key0: {r: 1, g: 0.8616718, b: 0, a: 0}
-        key1: {r: 1, g: 0.37201577, b: 0.35283017, a: 1}
+        key0: {r: 0.46203277, g: 0.9528302, b: 0.936998, a: 0}
+        key1: {r: 0.29803923, g: 0.6627451, b: 0.6509804, a: 1}
         key2: {r: 0, g: 0, b: 0, a: 0.9764706}
         key3: {r: 0, g: 0, b: 0, a: 0}
         key4: {r: 0, g: 0, b: 0, a: 0}
@@ -18901,8 +18901,8 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 0.8862745, g: 0.34509805, b: 0.13333334, a: 1}
-  m_Intensity: 1
+  m_Color: {r: 0.29803923, g: 0.6627451, b: 0.6509804, a: 1}
+  m_Intensity: 2
   m_Range: 20
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
